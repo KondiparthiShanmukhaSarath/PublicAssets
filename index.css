@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.margin-top-900 {
+  margin-top: 1250px;
+}
+
+.width-100-percent {
+  width: 100%;
+}
+
+.company-address {
+  font-size: 11px;
+}
+
+.company-email {
+  font-size: 15px;
+}
+
+.company-phone {
+  font-size: 15px;
+}
